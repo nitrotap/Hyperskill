@@ -1,0 +1,12 @@
+cinema/previoustriesthree.java
+ cinema.previoustriesthree
+cinema/previoustriesfour.java
+ cinema.previoustriesfour
+cinema/previoustries.java
+ cinema.previoustries
+cinema/previoustriestwo.java
+ cinema.previoustriestwo
+cinema/previousTriesFive.java
+ cinema.previousTriesFive
+cinema/Cinema.java
+ cinema.Cinema

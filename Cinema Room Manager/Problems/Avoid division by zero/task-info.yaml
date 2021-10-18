@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class FixingArithmeticException {
+
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+
+            int a = scanner.nextInt();
+            int b = scanner.nextInt();
+            int c = scanner.nextInt();
+            int d = scanner.nextInt();
+
+            int result = a / ((b + c) / d);
+
+            System.out.println(result);
+        }
+    }
+  learner_created: false
+- name: src/notesonnullpointer.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2472#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2472#comment">JetBrains
+    Academy</a></html>
+  time: Mon, 23 Nov 2020 06:01:07 UTC
+record: -1
